@@ -5,6 +5,7 @@
 
 
   <body>
+@include("parts.header")
 
     <div>
     ハローワールド
@@ -13,6 +14,6 @@
     ハロージャパン
 
 
-
+@include("parts.footer")
   </body>
   </html>
