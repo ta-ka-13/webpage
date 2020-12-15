@@ -1,16 +1,18 @@
 <!DOCTYPE html>
-<html>
-<head>
-</head>
-<body>
+  <html>
+  <head>
+  </head>
 
-<div>
-ハローワールド
-</div>
 
-<div>
-ハロージャパン
-</div>
+  <body>
 
-</body>
-</html>
+    <div>
+    ハローワールド
+
+    </div>
+    ハロージャパン
+
+
+
+  </body>
+  </html>
