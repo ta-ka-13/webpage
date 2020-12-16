@@ -7,5 +7,4 @@ class TopPageController extends Controller {
     public function show(){
         return view('top');
     }
-	
 }

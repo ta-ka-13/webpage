@@ -22,4 +22,4 @@ Route::get('/', function () {
 // });
 //           ↓
 
-Route::get('/top', 'TopPageController@show');
+Route::get('/top', 'App\Http\Controllers\TopPageController@show');
