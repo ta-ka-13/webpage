@@ -10,12 +10,10 @@
   <body>
 @include("parts.header")
 
-    <div>
+    <div main>
     ハローワールド
 
     </div>
-    ハロージャパン
-
 
 @include("parts.footer")
   </body>
