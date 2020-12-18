@@ -6,10 +6,11 @@ header{
 	width: auto;
 	/* margin-top: -10px;
 	margin-bottom: 0px; */
-	height: 100px;
+	height: 150px;
 }
 div{
 	background-color: silver;
 	width: auto;
-	height: 2000px;
+	height: 1400px;
+	
 }
