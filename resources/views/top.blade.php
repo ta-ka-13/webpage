@@ -19,10 +19,19 @@
 @include("parts.header")
 <!-- <div id="T1"></div> -->
 
-    <div main>
+  <div main>
     ハローワールド
-
+    <div top>
+      トップ
     </div>
+    <div mid>
+      真ん中
+    </div>
+    <div>
+      下
+    </div>
+
+  </div>
 
 @include("parts.footer")
   </body>
