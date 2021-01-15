@@ -20,6 +20,12 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('top');
 });
-//           ↓
+//
 
 // Route::get('/top', 'App\Http\Controllers\TopPageController@show');
+
+// Route::get('/About', function () {
+//     return view('about');
+// });
+
+Route::get('/about', 'App\Http\Controllers\AboutPageController@show');

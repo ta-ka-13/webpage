@@ -6,7 +6,7 @@
 <body>
 @include("parts.header")
 <main>
-	<h1>会社概要ページ</h1>
+	<h1>自分概要ページ</h1>
 </main>
 @include("parts.footer")
 </body>
