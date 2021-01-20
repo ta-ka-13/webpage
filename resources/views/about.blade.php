@@ -15,6 +15,15 @@
 @include("parts.header")
 <main>
 	<h1>自分概要ページ</h1>
+	<div id="about_top">
+      トップ
+    </div>
+	<div id="about_mid">
+      真ん中
+    </div>
+    <div id="about_low">
+      下
+    </div>
 </main>
 @include("parts.footer")
 </body>
