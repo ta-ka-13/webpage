@@ -20,9 +20,16 @@
 <!-- <div id="T1"></div> -->
 
   <div id="main">
+
     
     <div id="top">
-      トップ
+      
+      <iframe src= "https://www.jp.square-enix.com/" with=1000px, height=250px>
+      </iframe>
+      <iframe src= "http://www.ramen-jiro.com/" with=1000px, height=250px>
+      </iframe>
+      <iframe src= "" with=1000px, height=250px>
+      </iframe>
     </div>
     <div id="mid">
       真ん中

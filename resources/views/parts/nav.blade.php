@@ -1,4 +1,4 @@
 <nav>
-	<a href="/">トップ</a>
-	<a href="/about">自分概要</a>
+	<a href="/">TOP</a>
+	<a href="/about">ABOUT</a>
 </nav>
